@@ -27,7 +27,7 @@ The dataset is from **scikit-learn** (`load_diabetes`) and contains clinical dat
 |------------------------|----------|
 | Linear Regression      | 0.516    |
 | Ridge Regression       | 0.517    |
-| Random Forest Regressor| 0.534    |
+| Random Forest Regressor| 0.492    |
 
 **Observation:** Random Forest performs the best with the highest R² score, indicating better prediction of diabetes progression.
 
